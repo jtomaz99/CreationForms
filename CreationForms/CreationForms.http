@@ -1,0 +1,10 @@
+@CreationForms_HostAddress = https://localhost:7268
+
+GET {{CreationForms_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{CreationForms_HostAddress}}/api/superhero
+
+###
